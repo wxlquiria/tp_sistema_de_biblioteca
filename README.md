@@ -13,7 +13,9 @@ git clone <URL-DEL-REPOSITORIO>
 cd <carpeta-del-repositorio>
 python -m venv venv
 
+windows
 venv\Scripts\Activate.ps1
+linux/macOs
 source venv/bin/activate
 
 pip install -r requirements.txt
