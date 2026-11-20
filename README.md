@@ -19,7 +19,7 @@ cd <carpeta-del-repositorio>
 python -m venv venv
 
 # Windows (PowerShell)
-venv\Scripts\Activate.ps1
+venv\Scripts\Activate
 # Linux / macOS
 source venv/bin/activate
 
